@@ -7,8 +7,9 @@ ENV GO_BIN_SHA '94f874037b82ea5353f4061e543681a0e79657f787437974214629af8407d124
 
 #  Install required dev tools to compile cyberd
 ###############################################################################
-RUN apt-get update && apt-get install -y --no-install-recommends wget git
-
+RUN apt-get update && apt-get install -y --no-install-recommends wget git \
+  && apt-get clean \
+  && rm -rf /var/lib/apt/lists/*
 
 #  Install golang
 ###############################################################################

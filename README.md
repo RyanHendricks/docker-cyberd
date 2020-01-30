@@ -13,10 +13,11 @@ Differences between this and the original version [https://github.com/cybercongr
 [![CircleCI (all branches)](https://img.shields.io/circleci/project/github/RyanHendricks/docker-cyberd.svg?label=build&logo=circleci&logoColor=white)](https://circleci.com/gh/RyanHendricks/docker-cyberd)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ryanhendricks/docker-cyberd.svg?logo=docker&logoColor=white)](https://hub.docker.com/r/ryanhendricks/docker-cyberd)
 
+
 [![MicroBadger Layers (latest)](https://img.shields.io/microbadger/layers/ryanhendricks/docker-cyberd/latest.svg?logo=docker&logoColor=white)](https://microbadger.com/images/ryanhendricks/docker-cyberd)
 [![MicroBadger Image-Size (latest)](https://img.shields.io/microbadger/image-size/ryanhendricks/docker-cyberd:latest.svg?logo=docker&logoColor=white)](https://microbadger.com/images/ryanhendricks/docker-cyberd)
 
-[![Codacy grade](https://img.shields.io/codacy/grade/c35da045d95b4f07b09948d19bacaa47.svg?logo=codacy)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RyanHendricks/docker-cyberd&amp;utm_campaign=Badge_Grade)
+[![Codacy grade](https://img.shields.io/codacy/grade/0a18a07176d642f2939db4cc30352055.svg?logo=codacy)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RyanHendricks/docker-cyberd&amp;utm_campaign=Badge_Grade)
 
 ---
 
